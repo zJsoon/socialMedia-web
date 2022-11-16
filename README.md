@@ -1,7 +1,11 @@
 # socialMedia-web
+
 Template for your social networks | Programmed -> HTML5, CSS &amp; JS
 
+[Contact Me!](https://zjson.dev/contact)
+
 # Features
+
 - Social Media Web
 - Responsive:
   - 1920px
