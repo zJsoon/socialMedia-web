@@ -20,6 +20,6 @@ VSC | [Click to Download](https://code.visualstudio.com/download)
 
 # Preview
 
-![](https://cdn.discordapp.com/attachments/888114037852864513/1041668722466766979/image.png)
+![](https://media.discordapp.net/attachments/1350863712457592915/1350863735245377638/image.png?ex=67d84964&is=67d6f7e4&hm=1b09d36b415420f77f684ba109bfccd3d4d2d42a59e8675782c19ce6e6f7381b&=&format=webp&quality=lossless&width=1032&height=504)
 
 My Web | [Click to View](https://zjson.dev)
